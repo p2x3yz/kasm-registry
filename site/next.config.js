@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
-    icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    name: 'Cooey Club',
+    description: 'FIPs and not Hot Dog, I mean FIPs Compliant Images',
+    icon: 'https://i.imgur.com/589XLop.png',
+    listUrl: 'https://p2x3yz.github.io/kasm-registry/',
+    contactUrl: 'https://github.com/p2x3yz/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
