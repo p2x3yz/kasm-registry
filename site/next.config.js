@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     name: 'Cooey Club',
     description: 'FIPs and not Hot Dog, I mean FIPs Compliant Images',
-    icon: 'https://i.imgur.com/589XLop.png',
+    icon: '/img/logo.png',
     listUrl: 'https://p2x3yz.github.io/kasm-registry/',
     contactUrl: 'https://github.com/p2x3yz/kasm-registry/issues',
   },
