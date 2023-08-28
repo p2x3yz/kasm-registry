@@ -2,7 +2,7 @@
   "description": "DIBspace is a hardened Ubuntu OS with prebuilt Cooey community links and tools",
   "docker_registry": "https://index.docker.io/v1/",
   "image_src": "dibspace.png",
-  "name": "legitservices/ubuntu2204",
+  "name": "legitservices/ubuntu:20.04",
   "run_config": {
     "hostname": "dibspace"
   },
